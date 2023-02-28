@@ -1,4 +1,4 @@
-import Motherboard from "../models/motherboardModel.js";
+import Motherboard from "../models/MotherboardModel.js";
 import path from "path";
 import fs from "fs";
 import Users from "../models/UsersModel.js";
